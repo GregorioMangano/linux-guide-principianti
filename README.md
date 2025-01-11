@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://lh3.googleusercontent.com/a/ACg8ocIPsRPeVGU9X_hILB_pLoEb5Tay7HsM6x8gCArNpTPBbL7SAu8=s360-c-no" width="200" alt="Gregorio Mangano">
+
+  ### Ciao! Benvenuto 👋
+  Sono Gregorio, utilizzo Linux da circa 20 anni ed effettuo assistenza informatica a domicilio. 
+  Sono un appassionato di sistemi operativi e sono qui per aiutarti!
+</div>
+
 # Guide Linux per Principianti 🐧
 
 Benvenuti nel repository ufficiale del canale YouTube di Gregorio Mangano.
@@ -47,5 +55,3 @@ Qui troverete guide e tutorial completi su Linux, pensati appositamente per chi 
   - Assistenza informatica generale
   
 Contattatemi via email per preventivi e supporto personalizzato.
-
-
