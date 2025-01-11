@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocIPsRPeVGU9X_hILB_pLoEb5Tay7HsM6x8gCArNpTPBbL7SAu8=s360-c-no" width="200" alt="Gregorio Mangano">
+<img src="https://lh3.googleusercontent.com/a/ACg8ocIPsRPeVGU9X_hILB_pLoEb5Tay7HsM6x8gCArNpTPBbL7SAu8=s360-c-no" width="200" alt="Gregorio Mangano" align="left">
 
-  ### Ciao! Benvenuto 👋
-  Sono Gregorio, utilizzo Linux da circa 20 anni ed effettuo assistenza informatica a domicilio. 
-  Sono un appassionato di sistemi operativi e sono qui per aiutarti!
-</div>
+### Ciao! Benvenuto 👋
+Sono Gregorio, utilizzo Linux da circa 20 anni ed effettuo assistenza informatica a domicilio. 
+Sono un appassionato di sistemi operativi e sono qui per aiutarti!
+
+<br clear="left"/>
 
 # Guide Linux per Principianti 🐧
 
