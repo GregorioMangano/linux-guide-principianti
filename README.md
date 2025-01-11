@@ -13,16 +13,19 @@ Qui troverete guide e tutorial completi su Linux, pensati appositamente per chi 
 - Installazione completa
 - Migrazione da Windows
 - Software essenziali
+👉 [Guarda la guida completa Ubuntu](https://www.youtube.com/watch?v=rOBTE4MJN_Y)
 
 ### Arch Linux
 - Installazione guidata
 - Configurazione sistema
 - Personalizzazione avanzata
+👉 [Guarda la guida completa Arch Linux](https://www.youtube.com/watch?v=h8vBPnr8zPI)
 
 ### Linux Mint
 - Personalizzazione Cinnamon
 - Setup per principianti
 - Ottimizzazioni sistema
+👉 [Guarda la guida per Linux Mint](https://www.youtube.com/watch?v=kr4JfVJNSBA)
 
 ## 💡 Argomenti Principali
 - Guide installazione Linux
@@ -43,3 +46,6 @@ Qui troverete guide e tutorial completi su Linux, pensati appositamente per chi 
   - Configurazione WordPress
   - Assistenza informatica generale
   
+Contattatemi via email per preventivi e supporto personalizzato.
+
+
